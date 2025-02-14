@@ -27,10 +27,10 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" width="400" />
 </p>
 
-### 🎨 Frontend Development  
+<!--### 🎨 Frontend Development  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" width="350" />
-</p>
+</p>-->
 
 ---
 
