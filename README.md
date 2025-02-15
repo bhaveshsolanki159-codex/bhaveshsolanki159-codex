@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hello,+I'm+Bhavesh+Solanki!;🚀+Frontend+Developer+%7C+Data+Science+Explorer;✨+Building+Tech+That+Matters!;💡+Lover+of+Minimal+UI+%26+Dark+Themes!;🔥+Turning+Ideas+into+Reality!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hello,+I'm+Bhavesh+Solanki!;🚀+%7C+Data+Science+Enthusiast;✨+%7C+Innovating+Through+Code!;🔥+%7C+Building+Scalable+Tech!">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-> 🧑‍💻 Passionate **Frontend Developer & Data Science Enthusiast**  
-> 🌟 **Transforming Ideas into Reality** through clean and scalable code  
-> 📊 **Currently Learning**: AI, Data Science & Web Optimization  
-> 💡 Always **Exploring** new technologies and **enhancing** my skills  
-> 🎯 **Goal:** To build powerful tech solutions that make a difference  
-> 🎨 **Lover of Minimal UI, Dark Themes & Clean Aesthetics**  
-> ⚡ **Fun Fact:** I turn ☕ into 🔥 web experiences!  
+> 🧑‍💻 Passionate **Full-Stack Developer & Data Science Explorer**  
+> 🌟 **Bridging Creativity & Code** for impactful digital experiences  
+> 📊 **Currently Learning**: AI, Cloud Technologies & Web3  
+> 💡 Always **Exploring** new possibilities & enhancing skillsets  
+> 🎯 **Goal:** To create **scalable, performant & user-friendly** solutions  
+> 🎨 **Minimalist UI, Dark Mode Enthusiast & UX Advocate**  
+> ⚡ **Fun Fact:** I turn ☕ into scalable solutions!  
 
 ---
 
@@ -24,13 +24,13 @@
 
 ### 💻 Programming & Scripting  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" width="400" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgres" width="700" />
 </p>
 
-<!--### 🎨 Frontend Development  
+### 🔧 Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" width="350" />
-</p>-->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker,aws,vercel" width="700" />
+</p>
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🔥 Tech & Activity Tracker  
+## 🔥 Achievements & Activity  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhaveshsolanki159-codex&theme=radical&no-frame=true&margin-w=10" width="80%" />
@@ -74,11 +74,17 @@
   </a>
 </p>
 
-
 ---
 
-### 🎯 **"Code the Future, Build with Passion!"** 🚀  
+### 🎯 **"Innovate, Code & Build the Future!"** 🚀  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
 </p>
+"""
+
+# Write to README.md
+with open("README.md", "w", encoding="utf-8") as file:
+    file.write(readme_content)
+
+print("README.md has been generated successfully!")
