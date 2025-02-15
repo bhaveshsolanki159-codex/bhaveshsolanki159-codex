@@ -1,23 +1,22 @@
-readme_content = """
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hello,+I'm+Bhavesh+Solanki!;🚀+Full-Stack+Developer+%7C+Data+Science+Explorer;✨+Innovating+Through+Code!;💡+Lover+of+Minimal+UI+%26+Dark+Themes!;🔥+Building+Scalable+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hello,+I'm+Bhavesh+Solanki!;🚀+Frontend+Developer+%7C+Data+Science+Explorer;✨+Building+Tech+That+Matters!;💡+Lover+of+Minimal+UI+%26+Dark+Themes!;🔥+Turning+Ideas+into+Reality!">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400">
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-> 🧑‍💻 Passionate **Full-Stack Developer & Data Science Explorer**  
-> 🌟 **Bridging Creativity & Code** for impactful digital experiences  
-> 📊 **Currently Learning**: AI, Cloud Technologies & Web3  
-> 💡 Always **Exploring** new possibilities & enhancing skillsets  
-> 🎯 **Goal:** To create **scalable, performant & user-friendly** solutions  
-> 🎨 **Minimalist UI, Dark Mode Enthusiast & UX Advocate**  
-> ⚡ **Fun Fact:** I turn ☕ into scalable solutions!  
+> 🧑‍💻 Passionate **Frontend Developer & Data Science Enthusiast**  
+> 🌟 **Transforming Ideas into Reality** through clean and scalable code  
+> 📊 **Currently Learning**: AI, Data Science & Web Optimization  
+> 💡 Always **Exploring** new technologies and **enhancing** my skills  
+> 🎯 **Goal:** To build powerful tech solutions that make a difference  
+> 🎨 **Lover of Minimal UI, Dark Themes & Clean Aesthetics**  
+> ⚡ **Fun Fact:** I turn ☕ into 🔥 web experiences!  
 
 ---
 
@@ -25,13 +24,13 @@ readme_content = """
 
 ### 💻 Programming & Scripting  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgres" width="700" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" width="400" />
 </p>
 
-### 🔧 Tools & Technologies  
+<!--### 🎨 Frontend Development  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker,aws,vercel" width="700" />
-</p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" width="350" />
+</p>-->
 
 ---
 
@@ -49,14 +48,14 @@ readme_content = """
 
 ---
 
-## 🔥 Achievements & Activity  
+## 🔥 Tech & Activity Tracker  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhaveshsolanki159-codex&theme=radical&no-frame=true&margin-w=10" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-graph.vercel.app/graph?username=bhaveshsolanki159-codex&theme=dracula&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshsolanki159-codex&bg_color=000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -70,25 +69,16 @@ readme_content = """
   <a href="https://www.linkedin.com/in/bhavesh-solanki-5bb6b8325" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your_twitter_handle" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="mailto:bhaveshsolankibj159@gmail.com" target="_blank" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+
 ---
 
-### 🎯 **"Innovate, Code & Build the Future!"** 🚀  
+### 🎯 **"Code the Future, Build with Passion!"** 🚀  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
-"""
-
-# Write to README.md
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-print("README.md has been generated successfully!")
