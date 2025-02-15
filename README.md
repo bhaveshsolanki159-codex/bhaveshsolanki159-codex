@@ -1,5 +1,6 @@
+readme_content = """
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hello,+I'm+Bhavesh+Solanki!;🚀+%7C+Data+Science+Enthusiast;✨+%7C+Innovating+Through+Code!;🔥+%7C+Building+Scalable+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hello,+I'm+Bhavesh+Solanki!;🚀+Full-Stack+Developer+%7C+Data+Science+Explorer;✨+Innovating+Through+Code!;💡+Lover+of+Minimal+UI+%26+Dark+Themes!;🔥+Building+Scalable+Tech!">
 </p>
 
 <p align="center">
@@ -55,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshsolanki159-codex&bg_color=000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-graph.vercel.app/graph?username=bhaveshsolanki159-codex&theme=dracula&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -68,6 +69,9 @@
   </a>
   <a href="https://www.linkedin.com/in/bhavesh-solanki-5bb6b8325" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your_twitter_handle" target="_blank" title="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:bhaveshsolankibj159@gmail.com" target="_blank" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
