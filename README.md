@@ -20,10 +20,10 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhaveshsolanki159-codex&show_icons=true&theme=radical" alt="stats" width="48%"/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshsolanki159-codex&theme=radical" alt="streak" width="48%"/> -->
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshsolanki159-codex&layout=compact&theme=radical" alt="languages"/>
